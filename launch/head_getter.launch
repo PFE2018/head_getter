@@ -2,6 +2,6 @@
 <launch>
 
 
-<node pkg="head_getter" type="head_getter.py" name="head_getter.py" respawn="true" output="screen" />
+<node pkg="head_getter" type="head_getter.py" name="head_getter" respawn="true" output="screen" />
 
 </launch>
